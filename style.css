@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(179, 158, 158);
+    background: linear-gradient(to left, rgb(228, 78, 41), rgba(17, 17, 17, 0.067));
+}
+
+.container{
+    background-color: rgb(172, 37, 37);
+}
